@@ -54,6 +54,13 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woonmo)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woonmo)](https://github.com/anuraghazra/github-readme-stats)
+
+  <a href="s">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woonmo&exclude_repo=dkssud8150.github.io&layout=compact&theme=default" />
+  </a>
+  <a href="s">
+    <img src="https://github-readme-stats.vercel.app/api?username=woonmo&theme=defaultt&show_icons=true" width="42%" />
+  </a>
   
 </div>
 
