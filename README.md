@@ -51,12 +51,12 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woonmo)](https://github.com/anuraghazra/github-readme-stats)
+  <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woonmo)](https://github.com/anuraghazra/github-readme-stats) -->
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woonmo)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woonmo)](https://github.com/anuraghazra/github-readme-stats)-->
 
   <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woonmo&exclude_repo=woonmo.github.io&layout=compact&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woonmo&exclude_repo=woonmo.github.io&layout=compact&theme=default" height=100px />
   </a>
   <a href="s">
     <img src="https://github-readme-stats.vercel.app/api?username=woonmo&theme=defaultt&show_icons=true"  />
