@@ -56,7 +56,7 @@
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woonmo)](https://github.com/anuraghazra/github-readme-stats)-->
 
   <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woonmo&exclude_repo=woonmo.github.io&layout=compact&theme=default" height=500px />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woonmo&exclude_repo=woonmo.github.io&layout=compact&theme=default" height=300px />
   </a>
   <a href="s">
     <img src="https://github-readme-stats.vercel.app/api?username=woonmo&theme=defaultt&show_icons=true"  />
