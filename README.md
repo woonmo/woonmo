@@ -58,7 +58,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=woonmo&theme=defaultt&show_icons=true"  />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woonmo&exclude_repo=woonmo.github.io&layout=compact&theme=default" height=196px />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woonmo&exclude_repo=woonmo.github.io&layout=compact&theme=default" height=195.5px />
   </a>
   
   
