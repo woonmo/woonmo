@@ -1,5 +1,5 @@
 
-### 😀Nice to meet you! 
+### 😀 Nice to meet you! 
 
 <img style="cursor: pointer;" src="https://img.shields.io/badge/kindsnoopy2@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" onclick="copyText('kindsnoopy2@gmail.com')"/>
 
