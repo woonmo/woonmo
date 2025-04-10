@@ -1,6 +1,6 @@
 👋Hi there! I'm **Back-End Developer** using **Spring Boot & JPA**
 
-
+<br/>
 <div>
   <!--Body-->
   
@@ -8,7 +8,6 @@
   <!--#### :raising_hand: I am a Cloud Engineer from South Korea.<br/>-->
   #### :fire: I aim to become a Back-End Engineer.<br/>
   #### :mortar_board: Bachelor of Economics, Hanshin University
-  <br/>
   
   ## 📚 Skill Set
   ### Language
