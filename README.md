@@ -13,9 +13,7 @@ I enjoy reading books, running and playing game 🏃📕🎮
 Simple is Best
 ### Skills
 #### Frameworks & Languages
-<img src="https://img.shields.io/badge/Java-3776AB?style=flat-square" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-3776AB?style=flat-square" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-000000?style=flat-square" />
 
 #### Tried
