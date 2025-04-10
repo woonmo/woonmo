@@ -1,11 +1,5 @@
-## Hi there 👋
+👋Hi there! I'm **Back-End Developer** using Spring Boot & JPA
 
-<div>
-  
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20☺️)
-  
-</div>
 
 <div>
   <!--Body-->
