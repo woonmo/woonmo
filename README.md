@@ -3,7 +3,7 @@
 
 <img style="cursor: pointer;" src="https://img.shields.io/badge/kindsnoopy2@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" onclick="copyText('kindsnoopy2@gmail.com')"/>
 
-👋Hi there!  
+👋 Hi there!  
 I'm **Back-End Developer** using **Spring Boot & JPA**  
 I have education 7 months of Java Back-End course K-Digital-Training in SSANGYONG education center.  
 I try to solve problems, and I enjoy it.  
